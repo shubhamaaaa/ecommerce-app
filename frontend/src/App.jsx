@@ -1,7 +1,7 @@
 import React from 'react';
 import { AbortedDeferredError, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
-import Collection from './pages/collection';
+import Collection from './pages/Collection';
 import About from './pages/About';
 import Contact from './pages/contact';
 import Product from './pages/product';
